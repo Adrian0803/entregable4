@@ -1,0 +1,36 @@
+
+
+.App{
+  padding-top: 2rem;
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  
+  
+}
+form{
+  border: solid rgb(10, 2, 2);
+  border-radius: 10px;
+  
+}
+
+ul{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+
+}
+button{
+  border-radius: 6px;
+  margin: 1re;
+  
+}
+li{
+  list-style: none;
+  border: solid black;
+  width: 20rem;
+  margin: 2rem;
+  background-color: rgb(67, 67, 255);
+  border-radius: 10px;
+
+}
